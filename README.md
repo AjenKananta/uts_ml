@@ -1,0 +1,1 @@
+Repositori ini berisi dua proyek machine learning yang dikerjakan untuk tujuan pembelajaran. Proyek ini mencakup tugas regresi dan klasifikasi menggunakan dataset dunia nyata. Setiap proyek menunjukkan proses preprocessing data, implementasi model, dan evaluasi menggunakan metrik yang sesuai.
